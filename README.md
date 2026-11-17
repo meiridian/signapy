@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Carmeisel101/signapy/main/docs/assets/signapy-logo.png" alt="SignaPy" width="480">
+  <img src="https://raw.githubusercontent.com/meiridian/signapy/main/docs/assets/signapy-logo.png" alt="SignaPy" width="480">
 </h1>
 
 <p align="center">
@@ -90,7 +90,7 @@ These instructions are for contributors, or for anyone working from the
 source repository rather than the PyPI release:
 
 ```bash
-git clone https://github.com/Carmeisel101/signapy.git
+git clone https://github.com/meiridian/signapy.git
 cd signapy
 python -m venv .venv
 source .venv/bin/activate
