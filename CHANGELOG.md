@@ -2,7 +2,7 @@
 
 ## 0.1.1 — project links update (2026-11-17)
 
-Metadata-only release; no code changes.
+Metadata-only release; no functional changes.
 
 - The GitHub username changed from `Carmeisel101` to `meiridian`. The PyPI
   project links (Homepage, Repository, Issues), the README logo, and the clone
