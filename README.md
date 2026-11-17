@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Carmeisel101/signapy/main/docs/assets/signapy-logo.png" alt="SignaPy" width="480">
+  <img src="https://raw.githubusercontent.com/meiridian/signapy/main/docs/assets/signapy-logo.png" alt="SignaPy" width="480">
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 Long-term mission: *find, quantify, localize, and validate predictive signal.*
 
-> **Status: beta (`0.1.0`).** The API may still change before 1.0.
+> **Status: beta (`0.1.1`).** The API may still change before 1.0.
 > `signapy.discover()` works against
 > **binary targets** with **categorical, continuous, and ordinal features**
 > today. Everything under [Planned next](#planned-next) — other
@@ -74,11 +74,11 @@ pip install "signapy[plot]"
 Without the extra, everything else works and `report.plot()` raises an
 `ImportError` that says how to install it; notebooks show the summary table.
 
-The current release is `0.1.0`. To install the exact current version, which
+The current release is `0.1.1`. To install the exact current version, which
 is useful when reproducibility is important:
 
 ```bash
-pip install signapy==0.1.0
+pip install signapy==0.1.1
 ```
 
 See the [SignaPy PyPI project page](https://pypi.org/project/signapy/) for
@@ -90,7 +90,7 @@ These instructions are for contributors, or for anyone working from the
 source repository rather than the PyPI release:
 
 ```bash
-git clone https://github.com/Carmeisel101/signapy.git
+git clone https://github.com/meiridian/signapy.git
 cd signapy
 python -m venv .venv
 source .venv/bin/activate
@@ -372,7 +372,7 @@ design.
 SignaPy uses [PEP 440](https://peps.python.org/pep-0440/) versions and will
 follow [semantic versioning](https://semver.org/) for releases. Until 1.0,
 minor releases may change the API. Pre-release builds use PEP 440 suffixes
-such as `aN`, `bN`, or `.devN`. The current release is `0.1.0`. The version
+such as `aN`, `bN`, or `.devN`. The current release is `0.1.1`. The version
 is defined once, in `src/signapy/__init__.py`.
 
 ## License

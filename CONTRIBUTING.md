@@ -10,7 +10,7 @@ For anything that doesn't fit a GitHub issue or pull request, email
 **dev.meisel+signapy@gmail.com**.
 
 - **Bugs and feature requests:**
-  [open an issue](https://github.com/Carmeisel101/signapy/issues). Include the
+  [open an issue](https://github.com/meiridian/signapy/issues). Include the
   SignaPy version, your Python version, and a small example that reproduces
   the problem (a few rows of synthetic data are ideal).
 - **Larger changes:** please open an issue or email first, so we can agree on
@@ -20,7 +20,7 @@ For anything that doesn't fit a GitHub issue or pull request, email
 ## Development setup
 
 ```bash
-git clone https://github.com/Carmeisel101/signapy.git
+git clone https://github.com/meiridian/signapy.git
 cd signapy
 python -m venv .venv
 source .venv/bin/activate
